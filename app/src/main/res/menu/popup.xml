@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/add_id"
+        android:title="Add Item"
+        android:visible="true"/>
+    <item
+        android:id="@+id/copy_id"
+        android:title="Copy Item"
+        android:visible="true"/>
+    <item
+        android:id="@+id/edit_id"
+        android:title="Edit Item"
+        android:visible="true"/>
+    <item
+        android:id="@+id/delete_id"
+        android:title="Delete Item"
+        android:visible="true"/>
+
+</menu>
